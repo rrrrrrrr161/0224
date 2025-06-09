@@ -5,5 +5,5 @@ $database = 'school';
 $dbuser = 'root';
 $dbpass = '';
 # 首頁設定
-$main = 'booklist.php';
+$main = 'book_list.php';
 ?>
